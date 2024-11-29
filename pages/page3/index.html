@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Clothing Website</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+  <header class="header">
+    <img class="logo" src="/assets/img/melly.jpg" alt="Logo">
+    <nav>
+      <!-- Link to scroll down to Clothing section on the same page -->
+      <a class="btn active" href="#clothing">
+        <p>Clothing</p>
+      </a>
+      <!-- Link to Order Now page (page 2) -->
+      <a class="btn" href="pages\page2\index.html">
+        <p>Order Now</p>
+      </a>
+      <!-- Link to Contact Us page (page 3) -->
+      <a class="btn" href="pages\page3\index.html">
+        <p>Contact Us</p>
+      </a>
+    </nav>
+  </header>
+
+<section class="contact-section">
+    <h2>Contact Us</h2>
+    <form action="#" method="POST">
+      <label for="full-name">Full Name:</label>
+      <input type="text" id="full-name" name="full-name" required>
+      
+      <label for="email">Email Address:</label>
+      <input type="email" id="email" name="email" required>
+      
+      <label for="message">Your Message:</label>
+      <textarea id="message" name="message" required></textarea>
+      
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+</main>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Clothing Website</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+  <header class="header">
+    <img class="logo" src="/assets/img/melly.jpg" alt="Logo">
+    <nav>
+      <!-- Link to scroll down to Clothing section on the same page -->
+      <a class="btn active" href="#clothing">
+        <p>Clothing</p>
+      </a>
+      <!-- Link to Order Now page (page 2) -->
+      <a class="btn" href="pages\page2\index.html">
+        <p>Order Now</p>
+      </a>
+      <!-- Link to Contact Us page (page 3) -->
+      <a class="btn" href="pages\page3\index.html">
+        <p>Contact Us</p>
+      </a>
+    </nav>
+  </header>
+
+<!-- Order Section -->
+<section class="order-section">
+    <h2>Complete Your Order</h2>
+    <form action="#" method="POST">
+      <label for="name">Full Name:</label>
+      <input type="text" id="name" name="name" required>
+      
+      <label for="address">Shipping Address:</label>
+      <textarea id="address" name="address" required></textarea>
+      
+      <label for="bank">Choose Bank:</label>
+      <select id="bank" name="bank" required>
+        <option value="bank1">Bank 1</option>
+        <option value="bank2">Bank 2</option>
+        <option value="bank3">Bank 3</option>
+      </select>
+      
+      <button type="submit">Submit Order</button>
+    </form>
+  </section>
