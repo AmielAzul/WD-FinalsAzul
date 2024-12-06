@@ -20,9 +20,9 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-FinalsAzul)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](<a href="https://wakatime.com/badge/user/d89be302-e522-45a1-a624-82b86ea0a1bf/project/7355b290-d989-418e-87c4-275dcf05b9fb"><img src="https://wakatime.com/badge/user/d89be302-e522-45a1-a624-82b86ea0a1bf/project/7355b290-d989-418e-87c4-275dcf05b9fb.svg" alt="wakatime"></a>)
 
 ---
 
@@ -34,21 +34,16 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview">Overview</a>
-      <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
-        <li>
-          <a href="#technology">Technology</a>
-        </li>
-      </ol>
+      <a href="#home">Home</a>
     </li>
     <li>
-      <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
+      <a href="#about">About</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#review">Review</a>
+    </li>
+    <li>
+      <a href="#contact">Contact</a>
     </li>
   </ol>
 </details>
@@ -63,16 +58,20 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  Store Website (Clothing)
 - Whats the purpose
+  To utilize different pages of a website
 - What are key components
+  Multipages, and responsive pages on different devices
 - What technology used and how it is used
+  HTML, and CSS was mainly used for the coding of the website and designing its elements, there was also JavaScript for more advanced coding
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Every pages can link back to the homepage
+- Multiple pages for their specified purpose
+- Responsive pages for different pages
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -119,4 +118,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Website Template | For the website layout itself | (https://www.youtube.com/watch?v=cLOT0APQzDs) |
+| Website codes  | For some of the codes | (https://mdbootstrap.com/freebies/) |
