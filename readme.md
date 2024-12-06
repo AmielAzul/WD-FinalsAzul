@@ -71,7 +71,7 @@ Guiding Question:
 <!-- The following are just sample -->
 - Every pages can link back to the homepage
 - Multiple pages for their specified purpose
-- Responsive pages for different pages
+- Responsive pages for different devices
 
 ### Technology
 <!-- TODO: List of Technology Used -->
