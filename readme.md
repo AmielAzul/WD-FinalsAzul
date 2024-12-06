@@ -34,21 +34,21 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview">Overview</a>
+      <a href="#home">Home</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
+          <a href="#about">About</a>
         </li>
         <li>
-          <a href="#technology">Technology</a>
+          <a href="#products">Products</a>
         </li>
       </ol>
     </li>
     <li>
-      <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
+      <a href="#review">Review</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#contact">Contact</a>
     </li>
   </ol>
 </details>
