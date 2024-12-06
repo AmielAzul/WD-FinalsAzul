@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo-no-background.png" alt="June" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">JUNE</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Welcome to **June**, where timeless craftsmanship meets modern style. Our store offers a curated selection of handmade, knitted clothing and accessories, crafted with love and care. Each piece tells a story of artistry and quality, designed to bring comfort, elegance, and individuality to your wardrobe. At June, we believe in sustainable fashion that feels as good as it looks.
 </div>
 
 <br />
