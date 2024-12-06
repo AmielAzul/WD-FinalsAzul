@@ -58,16 +58,20 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  Store Website (Clothing)
 - Whats the purpose
+  To utilize different pages of a website
 - What are key components
+  Multipages, and responsive pages on different devices
 - What technology used and how it is used
+  HTML, and CSS was mainly used for the coding of the website and designing its elements, there was also JavaScript for more advanced coding
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Every pages can link back to the homepage
+- Multiple pages for their specified purpose
+- Responsive pages for different pages
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -114,4 +118,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Website Template | For the website layout itself | (https://www.youtube.com/watch?v=cLOT0APQzDs) |
+| Website codes  | For some of the codes | (https://mdbootstrap.com/freebies/) |
