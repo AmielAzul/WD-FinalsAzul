@@ -313,6 +313,10 @@
     text-decoration: line-through;
   }
   
+  .review h1{
+    margin-top: 100px;
+  }
+
   .review .box-container{
     display: flex;
     flex-wrap: wrap;
@@ -369,6 +373,10 @@
   .review .box-container .box .user span{
     font-size: 1.5rem;
     color: #999;
+  }
+
+  .contact h1{
+    margin-top: 100px;
   }
   
   .contact .row{
