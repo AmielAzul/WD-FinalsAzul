@@ -20,9 +20,9 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-FinalsAzul)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](<a href="https://wakatime.com/badge/user/d89be302-e522-45a1-a624-82b86ea0a1bf/project/7355b290-d989-418e-87c4-275dcf05b9fb"><img src="https://wakatime.com/badge/user/d89be302-e522-45a1-a624-82b86ea0a1bf/project/7355b290-d989-418e-87c4-275dcf05b9fb.svg" alt="wakatime"></a>)
 
 ---
 
