@@ -22,7 +22,7 @@
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-FinalsAzul)
 
-[![wakatime]("https://wakatime.com/badge/user/d89be302-e522-45a1-a624-82b86ea0a1bf/project/7355b290-d989-418e-87c4-275dcf05b9fb"><img src="https://wakatime.com/badge/user/d89be302-e522-45a1-a624-82b86ea0a1bf/project/7355b290-d989-418e-87c4-275dcf05b9fb.svg")
+[![wakatime](https://wakatime.com/badge/user/d89be302-e522-45a1-a624-82b86ea0a1bf/project/7355b290-d989-418e-87c4-275dcf05b9fb https://wakatime.com/badge/user/d89be302-e522-45a1-a624-82b86ea0a1bf/project/7355b290-d989-418e-87c4-275dcf05b9fb.svg)
 
 ---
 
