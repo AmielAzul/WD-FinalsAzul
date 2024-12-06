@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Welcome to **June**, where timeless craftsmanship meets modern style. Our store offers a curated selection of handmade, knitted clothing and accessories, crafted with love and care. Each piece tells a story of artistry and quality, designed to bring comfort, elegance, and individuality to your wardrobe. At June, we believe in sustainable fashion that feels as good as it looks.
 </div>
 
 <br />
